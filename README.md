@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+Adobe Franklin Project Test
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
